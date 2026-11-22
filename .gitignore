@@ -1,0 +1,41 @@
+
+# Flutter / Dart
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/.pub-cache/
+frontend/build/
+frontend/.metadata
+frontend/android/.gradle/
+frontend/ios/Pods/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Machine Learning
+ml/datasets/
+ml/models/*.pkl
+ml/models/*.joblib
+ml/models/*.h5
+ml/models/*.keras
+*.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Operating system
+.DS_Store
+Thumbs.db
